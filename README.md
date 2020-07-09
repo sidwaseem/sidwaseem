@@ -10,6 +10,55 @@ I have worked on backend technologies like AEM 6 and Integration on variety of C
   - LinkedIn: https://www.linkedin.com/in/sidwaseem/
   - Skype: sid_waseem
   - Gmail: waseemc2002@gmail.com
+  
+# Portfolio
+
+## Montblanc TimeWalker Campaign - React | Redux | Immutable | AEM
+* AEM on BE, Configurable features
+* Roles:
+  - Developer
+  - Responsive Development
+  - Localization
+  - Intro & Landing screen, Summary, Tabs, Lightbox
+* [URL](https://www.montblanc.com/content/campaigns/montblanc/2017-08-14-v1-mtb-timewalker-prod/)
+
+
+## Watch Configurator - React | Redux | Immutable | AEM
+* 3dimerce API integration for images(watch)
+* AEM on BE, Configurable features
+* Roles:
+  - Lead
+  - Architecture
+  - Responsive Development
+  - Localization
+  - Deep Linking
+  - Image gallery with orientation view
+  - Wishlist
+  - Intro & Landing screen, Summary, Tabs, Lightbox
+* Article with Video [Article/Video](https://www.iwc.com/us/en/articles/journal/a-legend-of-your-own-making.html)
+* [URL](https://watchconfigurator.netlify.app/)
+  
+## Employee app - Angular 4
+  * Routes
+  * Add Employee
+  * Edit Employee
+  * Delete Employee
+  * Form Validation
+  * Employe stats
+  [URL](https://focused-galileo-bc5a30.netlify.app/)
+  
+ ## IWC ecommerce - javascript|jQuery|LESS|AEM
+ * Roles
+  - Lead
+  - Architecture
+  - Responsive Development
+  - Localization
+  - Deep Linking
+  - Image gallery with orientation view
+  - Wishlist
+  - Intro & Landing screen, Summary, Tabs, Lightbox
+  * AEM server side component
+  * 360 view component [Demo](https://www.iwc.com/en/watch-collections/da-vinci/iw458312-da-vinci-automatic-36.html)
 
 
 <!--
